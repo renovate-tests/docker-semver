@@ -1,1 +1,9 @@
-{}
+{
+  "packageRules": [
+    {
+      "packageNames": ["sourcegraph/frontend"],
+      "versionScheme": "semver",
+      "ignoreUnstable": false
+    }
+  ]
+}
